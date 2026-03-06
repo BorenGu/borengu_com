@@ -4,7 +4,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air"
-title                    : "Boren Gu's Website"
+title                    : "Boren Gu's Webpage"
 title_separator          : "-"
 name                     : &name "Boren Gu"
 description              : &description "QECer @ AG Eisert."
