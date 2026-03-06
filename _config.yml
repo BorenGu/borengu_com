@@ -15,16 +15,16 @@ repository               : "BorenGu/borengu_com"
 # Site Author
 author:
   avatar           : "profile.png"
-  name             : "Boren Gu"
+  name             : "Boren Gu<br><span style='font-size:0.9em'>顾博仁</span>"
   pronouns         :
   bio              : "PhD student at AG Eisert on quantum error correction."
   location         : "Berlin, Germany"
   employer         : "Freie Universität Berlin"
-  uri              : "https://borengu.com"
-  email            : "YOUR_EMAIL@borengu.com"
+  uri              : "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/team/phd/gu/index.html"
+  email            : "b.gu@fu-berlin.de"
 
   # Academic websites
-  academia         : "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/team/phd/gu/index.html"
+  academia         : 
   arxiv            :
   googlescholar    :
   inspire-hep      :
@@ -142,8 +142,7 @@ social:
   name                   : "Boren Gu"
   links:
     - "https://borengu.com"
-    - "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-
+    
 # Analytics
 analytics:
   provider               : false
