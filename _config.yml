@@ -4,6 +4,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air"
+theme_switch             : false
 title                    : "Boren Gu's Webpage"
 title_separator          : "-"
 name                     : &name "Boren Gu"
