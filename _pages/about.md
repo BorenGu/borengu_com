@@ -17,7 +17,7 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 ## Publications
 
 **[1] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
-**Boren Gu**, Tamas Noszko, Vincent Steffan, Jens Niklas Eberhardt, Joschka Roffe, Jens Eisert, and Stergios Koutsioumpas.<br>
+***Boren Gu**, Tamas Noszko, Vincent Steffan, Jens Niklas Eberhardt, Joschka Roffe, Jens Eisert, and Stergios Koutsioumpas.* <br>
 [*arXiv preprint*](https://arxiv.org/abs/2606.19482) (2026).
 
 **[1] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
