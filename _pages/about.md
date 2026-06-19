@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate at the [Dahlem Center for Complex Quantum Systems](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html), Freie Universität Berlin, supervised by Prof. Jens Eisert.
 
-I studied Mathematical Physics at the University of Edinburgh, graduating with a First-Class BSc (Hons), before completing an MSc with Distinction at the Higgs Centre for Theoretical Physics as a Higgs Scholar. During my undergraduate studies, I spent the 2022–23 academic year at UC Berkeley through UCEAP.
+I received a First-Class Honours BSc in Mathematical Physics from the University of Edinburgh, supervised by Dr Latham Boyle, followed by an MSc with Distinction at the Higgs Centre for Theoretical Physics as a Higgs Scholar, supervised by Prof. Chris Heunen and Dr Joschka Roffe, and co-supervised by Dr Robert Booth and Dr Wang Fang. During my undergraduate studies, I spent the 2022–23 academic year at UC Berkeley through UCEAP, supervised by Prof. Nicolai Reshetikhin and co-supervised by Dr Peng Zhou.
 
 My research focuses on **quantum error correction** and **fault-tolerant quantum computation**. I am particularly interested in finite-size quantum LDPC codes, fault-tolerant logical operations, and hardware-aware architectures for scalable quantum computing.
 
