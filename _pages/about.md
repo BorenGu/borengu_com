@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I’m Boren Gu"
+title: "About"
 excerpt: "PhD candidate in quantum information theory at Freie Universität Berlin."
 author_profile: true
 redirect_from:
