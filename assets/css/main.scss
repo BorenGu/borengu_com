@@ -41,3 +41,32 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Single-page, light-only presentation. */
+:root,
+html[data-theme="dark"] {
+  --global-bg-color: #ffffff;
+  --global-footer-bg-color: #ffffff;
+  --global-text-color: #3d4144;
+  --global-text-color-light: #6f777d;
+  --global-link-color: #4f939d;
+  --global-link-color-hover: #2f6f78;
+  --global-link-color-visited: #4f939d;
+  --global-masthead-link-color: #3d4144;
+  --global-border-color: #eeeeee;
+}
+
+html,
+body,
+.masthead,
+.page__footer {
+  background: #ffffff;
+}
+
+#theme-toggle {
+  display: none;
+}
+
+.page__content p {
+  line-height: 1.65;
+}

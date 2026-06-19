@@ -1,31 +1,25 @@
 ---
 permalink: /
 title: "Hello! 你好！こんにちは！"
-excerpt: "PhD candidate in quantum information theory at Freie Universität Berlin."
+excerpt: "Boren Gu — quantum error correction and fault-tolerant quantum computing."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD candidate in the [Quantum Many-Body Theory, Quantum Information Theory and Quantum Optics group](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html) led by Prof. Jens Eisert at Freie Universität Berlin.
+I am a PhD candidate at the [Dahlem Center for Complex Quantum Systems](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html), Freie Universität Berlin, supervised by Prof. Jens Eisert.
 
-My research focuses on **quantum error correction** and **fault-tolerant quantum computation**. I am particularly interested in quantum LDPC codes, logical operations, and architectures that make scalable quantum computation more resource-efficient.
+I studied Mathematical Physics at the University of Edinburgh, graduating with a First-Class BSc (Hons), before completing an MSc with Distinction at the Higgs Centre for Theoretical Physics as a Higgs Scholar. During my undergraduate studies, I spent the 2022–23 academic year at UC Berkeley through UCEAP.
 
-[Research](/research/){: .btn .btn--primary }
-[Publications](/publications/){: .btn .btn--inverse }
+My research focuses on **quantum error correction** and **fault-tolerant quantum computation**. I am particularly interested in finite-size quantum LDPC codes, fault-tolerant logical operations, and hardware-aware architectures for scalable quantum computing.
 
-## Background
+## Publications
 
-I studied Mathematical Physics at the University of Edinburgh, graduating with a First-Class BSc (Hons), before completing an MSc with Distinction at the Higgs Centre for Theoretical Physics as a Higgs Scholar. During my undergraduate studies, I spent the 2022–23 academic year at UC Berkeley through UCEAP. I am now pursuing a PhD in quantum error correction at the Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, supervised by Prof. Jens Eisert.
+**[1] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
+**Boren Gu**, Tamas Noszko, Vincent Steffan, Jens Niklas Eberhardt, Joschka Roffe, Jens Eisert, and Stergios Koutsioumpas.<br>
+*arXiv preprint* (2026). [arXiv:2606.19482](https://arxiv.org/abs/2606.19482)
 
-## Current interests
-
-- Finite-size quantum LDPC codes with practical parameters
-- Fault-tolerant logical measurements and logical gates
-- Parallel logical operations and quantum-computing architectures
-- Hardware-aware quantum error correction
-
-## Contact
-
-I am based at the Institute for Theoretical Physics, Freie Universität Berlin. The best way to reach me is by email at [b.gu@fu-berlin.de](mailto:b.gu@fu-berlin.de).
+**[2] QGPU: Parallel logic in quantum LDPC codes.**<br>
+**Boren Gu**, Andy Zeyi Liu, Armanda O. Quintavalle, Qian Xu, Jens Eisert, and Joschka Roffe.<br>
+*arXiv preprint* (2026). [arXiv:2603.05398](https://arxiv.org/abs/2603.05398)
