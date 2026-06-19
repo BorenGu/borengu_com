@@ -17,7 +17,7 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 
 ## Background
 
-I completed my BSc with First-Class Honours and my MSc with Distinction as a Higgs Scholar. I also studied at UC Berkeley as a UCEAP exchange student.
+I studied Mathematical Physics at the University of Edinburgh, graduating with a First-Class BSc (Hons), before completing an MSc with Distinction at the Higgs Centre for Theoretical Physics as a Higgs Scholar. During my undergraduate studies, I spent the 2022–23 academic year at UC Berkeley through UCEAP. I am now pursuing a PhD in quantum error correction at the Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, supervised by Prof. Jens Eisert.
 
 ## Current interests
 

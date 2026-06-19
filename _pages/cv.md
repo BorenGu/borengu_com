@@ -15,6 +15,24 @@ Berlin, Germany
 
 Research in quantum error correction and fault-tolerant quantum computation, with an emphasis on quantum LDPC codes, logical operations, and scalable architectures.
 
+## Education
+
+**PhD in Quantum Error Correction** · Feb 2026–present<br>
+Dahlem Center for Complex Quantum Systems, Freie Universität Berlin<br>
+Supervisor: Prof. Jens Eisert
+
+**MSc in Mathematical Physics — Distinction** · Sep 2024–Sep 2025<br>
+Higgs Centre for Theoretical Physics, University of Edinburgh<br>
+Higgs Scholar · Supervisors: Prof. Chris Heunen and Dr Joschka Roffe
+
+**BSc (Hons) in Mathematical Physics — First-Class Honours** · Sep 2021–Jul 2024<br>
+University of Edinburgh<br>
+Supervisors: Dr Latham Boyle and Prof. Susan Sierra
+
+**UCEAP Exchange** · Aug 2022–May 2023<br>
+University of California, Berkeley<br>
+GPA: 3.674/4 · Mentors: Prof. Nicolai Reshetikhin and Dr Peng Zhou
+
 ## Research areas
 
 - Quantum error correction
