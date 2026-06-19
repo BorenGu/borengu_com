@@ -15,6 +15,10 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 [Research](/research/){: .btn .btn--primary }
 [Publications](/publications/){: .btn .btn--inverse }
 
+## Background
+
+I completed my BSc with First-Class Honours and my MSc with Distinction as a Higgs Scholar. I also studied at UC Berkeley as a UCEAP exchange student.
+
 ## Current interests
 
 - Finite-size quantum LDPC codes with practical parameters
