@@ -5,10 +5,10 @@
 locale                   : "en-US"
 site_theme               : "air"
 theme_switch             : false
-title                    : "Boren Gu's Webpage"
+title                    : "Boren Gu"
 title_separator          : "-"
 name                     : &name "Boren Gu"
-description              : &description "QECer @ AG Eisert."
+description              : &description "PhD candidate working on quantum error correction and fault-tolerant quantum computing."
 url                      : "https://borengu.com"
 baseurl                  : ""
 repository               : "BorenGu/borengu_com"
@@ -18,7 +18,7 @@ author:
   avatar           : "profile.png"
   name             : "Boren Gu<br><span style='font-size:0.9em'>顾博仁</span>"
   pronouns         :
-  bio              : "PhD student at AG Eisert on quantum error correction."
+  bio              : "PhD candidate working on quantum error correction and fault-tolerant quantum computing."
   location         : "Berlin, Germany"
   employer         : "Freie Universität Berlin"
   uri              : "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/team/phd/gu/index.html"
@@ -42,7 +42,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "BorenGu"
   kaggle           :
   stackoverflow    :
 
@@ -57,7 +57,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/boren-gu/"
+  linkedin         : "boren-gu"
   mastodon         :
   medium           :
   pinterest        :
@@ -136,13 +136,15 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :
-og_description           :
+og_description           : "Boren Gu — quantum error correction, quantum LDPC codes, and fault-tolerant quantum computing."
 
 social:
   type                   : "Person"
   name                   : "Boren Gu"
   links:
     - "https://borengu.com"
+    - "https://github.com/BorenGu"
+    - "https://www.linkedin.com/in/boren-gu/"
     
 # Analytics
 analytics:
