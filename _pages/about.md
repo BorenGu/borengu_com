@@ -14,7 +14,7 @@ I received a First-Class Honours BSc in Mathematical Physics from the University
 
 My research focuses on **quantum error correction** and **fault-tolerant quantum computation**. I am particularly interested in finite-size quantum LDPC codes, fault-tolerant logical operations, and hardware-aware architectures for scalable quantum computing.
 
-## Publications
+## Preprints
 
 **[1] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
 *<u>Boren Gu</u>, Tamas Noszko, Vincent Steffan, Jens Niklas Eberhardt, Joschka Roffe, Jens Eisert, and Stergios Koutsioumpas.* <br>
@@ -23,3 +23,7 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 **[2] QGPU: Parallel logic in quantum LDPC codes.**<br>
 *<u>Boren Gu</u>, Andy Zeyi Liu, Armanda O. Quintavalle, Qian Xu, Jens Eisert, and Joschka Roffe.* <br>
 [*arXiv preprint* (2026)](https://arxiv.org/abs/2603.05398); [*QEC 26*](https://qec-conference.org/2026/schedule/).
+
+## Journal review
+
+[*npj Quantum Information*](https://www.nature.com/npjqi/)
