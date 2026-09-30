@@ -16,13 +16,19 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 
 ## Preprints
 
-**[1] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
+**[1] Ultra-high-distance quantum memories from amplified qLDPC codes.**<br>
+*Zijian Liang<sup>†</sup>, <u>Boren Gu</u><sup>†</sup>, Yu-An Chen, Jens Eisert, and Zongyuan Wang.* <br>
+[*arXiv preprint* (2026)](https://arxiv.org/abs/2609.37231).
+
+**[2] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
 *<u>Boren Gu</u>, Tamas Noszko, Vincent Steffan, Jens Niklas Eberhardt, Joschka Roffe, Jens Eisert, and Stergios Koutsioumpas.* <br>
 [*arXiv preprint* (2026)](https://arxiv.org/abs/2606.19482).
 
-**[2] QGPU: Parallel logic in quantum LDPC codes.**<br>
+**[3] QGPU: Parallel logic in quantum LDPC codes.**<br>
 *<u>Boren Gu</u>, Andy Zeyi Liu, Armanda O. Quintavalle, Qian Xu, Jens Eisert, and Joschka Roffe.* <br>
 [*arXiv preprint* (2026)](https://arxiv.org/abs/2603.05398); [*QEC 26*](https://qec-conference.org/2026/schedule/).
+
+(<sup>†</sup>equal contribution.)
 
 ## Journal review
 
