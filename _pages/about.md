@@ -12,19 +12,23 @@ I am a PhD candidate at the [Dahlem Center for Complex Quantum Systems](https://
 
 I received a First-Class Honours BSc in Mathematical Physics from the University of Edinburgh in 2024, supervised by [Dr Latham Boyle](https://scholar.google.com/citations?user=8d3IJXAAAAAJ&hl=en), followed by an MSc with Distinction at the Higgs Centre for Theoretical Physics as a Higgs Scholar in 2025, supervised by [Prof. Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) and [Dr Joschka Roffe](https://roffe.eu/), and co-supervised by [Dr Robert Booth](https://robertbooth.fr/) and [Dr Wang Fang](https://njuwfang.github.io/). During my undergraduate studies, I spent the 2022–23 academic year at UC Berkeley through UCEAP, supervised by [Prof. Nicolai Reshetikhin](https://en.wikipedia.org/wiki/Nicolai_Reshetikhin) and co-supervised by [Dr Peng Zhou](https://sites.google.com/view/pzhou/).
 
-My research focuses on **quantum error correction** and **fault-tolerant quantum computation**. I am particularly interested in finite-size quantum LDPC codes, fault-tolerant logical operations, and hardware-aware architectures for scalable quantum computing.
+My research focuses on **quantum error correction** and **fault-tolerant quantum computation**. I am particularly interested in finite-size quantum LDPC codes and their algebraic structures, fault-tolerant logical operations, and hardware-aware architectures for scalable quantum computing.
 
 ## Preprints
 
-**[1] Ultra-high-distance quantum memories from amplified qLDPC codes.**<br>
+**[1] Parallel algebraic surgery for qLDPC codes with constant shuttling depth.**<br>
+*Tian-Gang Zhou, <u>Boren Gu</u>, Jens Eisert, and Chen Zhao.* <br>
+[*arXiv preprint* (2026)](https://arxiv.org/abs/2609.39874).
+
+**[2] Ultra-high-distance quantum memories from amplified qLDPC codes.**<br>
 *Zijian Liang<sup>†</sup>, <u>Boren Gu</u><sup>†</sup>, Yu-An Chen, Jens Eisert, and Zongyuan Wang.* <br>
 [*arXiv preprint* (2026)](https://arxiv.org/abs/2609.37231).
 
-**[2] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
+**[3] Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid.**<br>
 *<u>Boren Gu</u>, Tamas Noszko, Vincent Steffan, Jens Niklas Eberhardt, Joschka Roffe, Jens Eisert, and Stergios Koutsioumpas.* <br>
 [*arXiv preprint* (2026)](https://arxiv.org/abs/2606.19482).
 
-**[3] QGPU: Parallel logic in quantum LDPC codes.**<br>
+**[4] QGPU: Parallel logic in quantum LDPC codes.**<br>
 *<u>Boren Gu</u>, Andy Zeyi Liu, Armanda O. Quintavalle, Qian Xu, Jens Eisert, and Joschka Roffe.* <br>
 [*arXiv preprint* (2026)](https://arxiv.org/abs/2603.05398); [*QEC 26*](https://qec-conference.org/2026/schedule/).
 
